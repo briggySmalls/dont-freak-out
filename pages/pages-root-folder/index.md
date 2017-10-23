@@ -4,7 +4,7 @@ homepage: true
 show_meta: false
 title: "Don't Freak Out Function Band"
 teaser: "The funk band to get your people moving."
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/bvh3NFqdvTI' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/sUY7vk3jCAA' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
@@ -16,9 +16,9 @@ iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/bvh3NFqdv
 # thumbnailUrl – A URL pointing to the video thumbnail image file.
 #
 video:
-    embedURL: "https://www.youtube.com/embed/bvh3NFqdvTI"
-    contentURL: "https://www.youtube.com/watch?v=bvh3NFqdvTI"
-    thumbnailUrl: "http://img.youtube.com/vi/bvh3NFqdvTI/maxresdefault.jpg"
+    embedURL: "https://www.youtube.com/embed/sUY7vk3jCAA"
+    contentURL: "https://www.youtube.com/watch?v=sUY7vk3jCAA"
+    thumbnailUrl: "http://img.youtube.com/vi/sUY7vk3jCAA/maxresdefault.jpg"
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
