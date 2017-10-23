@@ -1,10 +1,10 @@
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: http://www.youtube.com/
   class: icon-youtube
   title: "Videos"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/
   class: icon-twitter
   title: "Twitter"
 
