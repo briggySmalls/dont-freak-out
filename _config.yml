@@ -16,6 +16,9 @@ slogan: Funk & Soul
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: Don't Freak Out is an experienced funktion band, playing Funk & Soul classics that are guaranteed to get your event up for the downstroke.
 
+# The permalink of the info page
+info-permalink: /about/
+
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: <p>Created with &hearts; by <a href="http://github.com/briggySmalls">Sam Briggs</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
 
