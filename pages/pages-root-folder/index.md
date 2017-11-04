@@ -1,10 +1,10 @@
 ---
-layout: video
+layout: page
 homepage: true
 show_meta: false
-title: "Don't Freak Out Function Band"
+title: "Don't Freak Out"
+subheadline: "Funk & Soul Function Band"
 teaser: "The funk band to get your people moving."
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/sUY7vk3jCAA' frameborder='0' allowfullscreen></iframe>"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
@@ -28,6 +28,7 @@ permalink: /index.html
 ---
 <!--more-->
 
-## The DFO philosophy
+> Playing classics from Stevie Wonder & the Jackson 5 through to hits from Bruno Mars and others, *Don't Freak Out* span the full Funk & Soul spectrum.
 
-> Without sex it's not sexual <cite>Lois Graham</cite>
+If that sounds like your (brand new) bag then why not [contact us]({{ site.url }}/hire) for a booking.
+

@@ -2,12 +2,10 @@
   url: "/"
   side: left
 
-- title: "About"
-  url: "/about/"
-  side: left
-
 - title: "Hire"
   url: "/hire/"
   side: left
 
-
+- title: "Set List"
+  url: "/setlist/"
+  side: left
