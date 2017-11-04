@@ -30,5 +30,5 @@ permalink: /index.html
 
 > Playing classics from Stevie Wonder & the Jackson 5 through to hits from Bruno Mars and others, *Don't Freak Out* span the full Funk & Soul spectrum.
 
-If that sounds like your (brand new) bag then why not [contact us]({{ site.url }}/hire) for a booking.
+If that sounds like your (brand new) bag then why not [contact us]({{ site.url }}/hire) for a booking or checkout our [set list]({{ site.url }}/setlist).
 
