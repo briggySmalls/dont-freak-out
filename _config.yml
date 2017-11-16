@@ -41,7 +41,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: '//dontfreakout.co.uk/images/'
+urlimg: '//dontfreakout.co.uk/assets/img/'
 
 
 # Logo size is 600x80 pixels

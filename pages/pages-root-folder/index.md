@@ -5,6 +5,8 @@ show_meta: false
 title: "Don't Freak Out"
 subheadline: "Funk & Soul Function Band"
 teaser: "The funk band to get your people moving."
+header:
+    image_fullwidth: "band-header-photo.jpg"
 #
 # These video settings are totally optional. It's only purpose
 # is SEO, so that videos show up in Google hopefully with a 
