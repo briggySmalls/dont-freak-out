@@ -1,19 +1,9 @@
-- name: YouTube
-  url: http://www.youtube.com/
-  class: icon-youtube
-  title: "Videos"
-
-- name: Twitter
-  url: http://twitter.com/
-  class: icon-twitter
-  title: "Twitter"
-
 - name: Facebook
-  url: http://www.facebook.com/
+  url: http://www.facebook.com/DontFreakOutBand
   class: icon-facebook
   title: "facebook"
 
 - name: Instagram
-  url: http://instagram.com/
+  url: http://instagram.com/DontFreakOutBand
   class: icon-instagram
   title: "Insta"
