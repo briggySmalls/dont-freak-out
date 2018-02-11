@@ -9,3 +9,7 @@
 - title: "Set List"
   url: "/setlist/"
   side: left
+
+- title: "Photos"
+  url: "/photos/"
+  side: left
