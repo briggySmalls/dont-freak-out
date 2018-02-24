@@ -25,12 +25,17 @@
 *
 {% endcomment %}
 <div>
-	<ul class="clearing-thumbs small-block-grid-4" data-clearing>
-		{% for item in page.gallery %}
-		{% capture url %}{{ item.image_url }}{% endcapture %}
-		{% assign split_url = url | split: '.' %}
-		{% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
-		<li><a href="{{ site.urlimg }}{{ item.image_url }}"><img {% if item.caption %}data-caption="{{ item.caption }}"{% endif %} src="{{ site.urlimg }}{{ thumb_url }}" alt="{{ item.caption }}"></a></li>
-		{% endfor %}
+    <ul class="clearing-thumbs small-block-grid-4" data-clearing>
+        {% for item in page.gallery %}
+            {% for image in site.static_files %}
+                {% if image.path contains item.dir and image.path contains ".jpg" %}
+                    {% unless image.path contains '-thumb' %}
+                        {% assign split_url = image.path | split: '.' %}
+                        {% capture thumb_url %}{{split_url[0]}}-thumb.{{split_url[1]}}{% endcapture %}
+                        <li><a href="{{ image.path }}"><img {% if item.caption %}data-caption="{{ item.caption }}"{% endif %} src="{{ thumb_url }}" alt="{{ item.caption }}"></a></li>
+                    {% endunless %}
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
 	</ul>
 </div>
